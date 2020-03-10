@@ -18,8 +18,8 @@ eureka:
   register-with-eureka: false
 
 info:
-  app.name: springcloud-config-client-dev2
-  company.name: enjoy2
+  app.name: springcloud-config-client-devniu2
+  company.name: enjoyniu2
 ---
 server:
   port: 8102
@@ -36,5 +36,5 @@ eureka:
   register-with-eureka: false
   
 info:
-  app.name: springcloud-config-client-beta2
-  company.name: enjoy
+  app.name: springcloud-config-client-betaniu
+  company.name: enjoyniu
